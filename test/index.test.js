@@ -1,4 +1,5 @@
-#adding new comment to test git commands
+//adding new comment to test git commands
+//This is my second comment.
 var request = require('supertest');
 var express = require('express');
  
